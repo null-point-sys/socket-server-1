@@ -2,7 +2,6 @@
   "name": "socket-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "ts:watch": "tsc -w",
     "ts:build": "tsc",
